@@ -21,6 +21,18 @@ h1 {
   font-size: 8rem;
   color: #4ECCA3;
 }
+button{
+  color: #4ECCA3;
+  text-align: center ;
+  display: block;
+  margin: 0 auto;
+  height: 40px;
+  width: 100px;
+  border-radius: 20px;
+  font-family: 'Indie Flower', cursive;
+  background-color: #232931;
+  font-size: x-large;
+}
 
 p {
   font-size: 2rem;
